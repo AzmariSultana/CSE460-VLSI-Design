@@ -15,6 +15,7 @@
 # Theory
     https://youtube.com/playlist?list=PL-e5hRmSNQ_1Rqg-n_WDcKG1gNlNHpNvM
 
+
     https://www.youtube.com/watch?v=KOc_FJAX4so&list=PLn12JjJn-4YkQy8uyNnkRrt4SiE4SvZDX
 
 # Lab
