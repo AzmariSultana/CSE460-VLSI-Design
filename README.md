@@ -18,5 +18,15 @@
 
     https://www.youtube.com/watch?v=KOc_FJAX4so&list=PLn12JjJn-4YkQy8uyNnkRrt4SiE4SvZDX
 
+# ZIZE's recordings
+    https://www.youtube.com/playlist?list=PL_y1WhhK6ISuiGq789N2fdAKNKeINpHha
+    
+# CMOS Implementation
+    https://youtu.be/mpu26KNgXdw?si=ZQiI0YE7jXVuzNVg
+    
+# CMOS math
+    https://youtu.be/bjS3DJ1Of_s?si=g0o1S1Zmf_7VNbYc
+
+
 # Lab
     https://youtube.com/playlist?list=PLbn1ykCe23UeDHYWROZJB0DPL4nyGo6Cj
