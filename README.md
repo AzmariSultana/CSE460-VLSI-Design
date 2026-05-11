@@ -17,7 +17,6 @@
 
 ```
 https://www.youtube.com/playlist?list=PLn12JjJn-4YkQy8uyNnkRrt4SiE4SvZDX
-
 ```
 ```
 https://www.youtube.com/playlist?list=PLbn1ykCe23UeICjfkoruMhr3WcHWkItfav
