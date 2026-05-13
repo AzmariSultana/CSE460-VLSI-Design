@@ -22,7 +22,10 @@ https://www.youtube.com/playlist?list=PLn12JjJn-4YkQy8uyNnkRrt4SiE4SvZDX
 https://www.youtube.com/playlist?list=PLbn1ykCe23UeICjfkoruMhr3WcHWkItfa
 ```    
 # ZIZE's recordings
-    https://www.youtube.com/playlist?list=PL_y1WhhK6ISuiGq789N2fdAKNKeINpHha
+    https://www.youtube.com/playlist?list=PL_y1WhhK6ISv26IhGFaGYQYlP-uij3nEf
+```
+https://www.youtube.com/playlist?list=PL_y1WhhK6ISuiGq789N2fdAKNKeINpHha
+```
 
 # Lab
     https://youtube.com/playlist?list=PLbn1ykCe23UeDHYWROZJB0DPL4nyGo6Cj
